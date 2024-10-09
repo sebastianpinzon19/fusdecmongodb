@@ -78,7 +78,6 @@ app.use('/api/editionscheduleRoute', editionScheduleRoute);
 app.use('/api/foundationRoute', foundationRoute);
 app.use('/api/gradeRoute', gradeRoute);
 app.use('/api/nonattendanceRoute', nonAttendanceRoute);
-app.use('/api/reportRoute', reportRoute);
 app.use('/api/scheduleRoute', scheduleRoute);
 app.use('/api/studentattendanceRoute', studentAttendanceRoute);
 app.use('/api/studenteditionRoute', studentEditionRoute);
